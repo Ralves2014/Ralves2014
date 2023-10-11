@@ -6,6 +6,3 @@
 ## Frameworks and tools I have worked with before:
 ![My Skills](https://skills.thijs.gg/icons?i=dotnet,spring,git,linux,androidstudio)
 
-
-![](https://komarev.com/ghpvc/?username=Ralves2014&color=red&style=flat&label=PROFILE+VIEWS)
-
